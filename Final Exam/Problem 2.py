@@ -27,7 +27,7 @@ def f(n):
 # A dictionary is an immutable object because its keys are immutable.
 # True 
 # False because its keys can be mutable
-# False because a dictionary is mutable
+# False because a dictionary is mutable [X]
 
 # Consider the following two functions and select the correct choice below:
 
